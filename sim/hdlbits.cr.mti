@@ -1,0 +1,148 @@
+F:/zyb/Desktop/hdlbits/src/Circuits/Basic_Gates/Ringer.v {1 {vlog -work work -stats=none F:/zyb/Desktop/hdlbits/src/Circuits/Basic_Gates/Ringer.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Ringer
+
+Top level modules:
+	Ringer
+
+} {} {}} F:/zyb/Desktop/hdlbits/src/Circuits/Basic_Gates/Truthtable1.v {1 {vlog -work work -stats=none F:/zyb/Desktop/hdlbits/src/Circuits/Basic_Gates/Truthtable1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Truthtable1
+
+Top level modules:
+	Truthtable1
+
+} {} {}} F:/zyb/Desktop/hdlbits/src/Circuits/Basic_Gates/Mt2015_eq2.v {1 {vlog -work work -stats=none F:/zyb/Desktop/hdlbits/src/Circuits/Basic_Gates/Mt2015_eq2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mt2015_eq2
+
+Top level modules:
+	Mt2015_eq2
+
+} {} {}} F:/zyb/Desktop/hdlbits/src/Circuits/Basic_Gates/chip_7420.v {1 {vlog -work work -stats=none F:/zyb/Desktop/hdlbits/src/Circuits/Basic_Gates/chip_7420.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module chip_7420
+
+Top level modules:
+	chip_7420
+
+} {} {}} F:/zyb/Desktop/hdlbits/sim/Popcount255_tb.v {1 {vlog -work work -stats=none F:/zyb/Desktop/hdlbits/sim/Popcount255_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Popcount255_tb
+
+Top level modules:
+	Popcount255_tb
+
+} {} {}} F:/zyb/Desktop/hdlbits/sim/Always_case2_tb.v {1 {vlog -work work -stats=none F:/zyb/Desktop/hdlbits/sim/Always_case2_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Always_case2_tb
+
+Top level modules:
+	Always_case2_tb
+
+} {} {}} F:/zyb/Desktop/hdlbits/src/Circuits/Basic_Gates/Mt2015_q4.v {1 {vlog -work work -stats=none F:/zyb/Desktop/hdlbits/src/Circuits/Basic_Gates/Mt2015_q4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mt2015_q4
+
+Top level modules:
+	Mt2015_q4
+
+} {} {}} F:/zyb/Desktop/hdlbits/sim/Mt2015_eq2_tb.v {1 {vlog -work work -stats=none F:/zyb/Desktop/hdlbits/sim/Mt2015_eq2_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mt2015_eq2_tb
+
+Top level modules:
+	Mt2015_eq2_tb
+
+} {} {}} F:/zyb/Desktop/hdlbits/src/Circuits/Basic_Gates/m2014_q4e.v {1 {vlog -work work -stats=none F:/zyb/Desktop/hdlbits/src/Circuits/Basic_Gates/m2014_q4e.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module m2014_q4e
+
+Top level modules:
+	m2014_q4e
+
+} {} {}} F:/zyb/Desktop/hdlbits/src/Circuits/Basic_Gates/MT2015_Q4a.v {1 {vlog -work work -stats=none F:/zyb/Desktop/hdlbits/src/Circuits/Basic_Gates/MT2015_Q4a.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MT2015_Q4a
+
+Top level modules:
+	MT2015_Q4a
+
+} {} {}} F:/zyb/Desktop/hdlbits/src/Circuits/Basic_Gates/m2014_q4f.v {1 {vlog -work work -stats=none F:/zyb/Desktop/hdlbits/src/Circuits/Basic_Gates/m2014_q4f.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module m2014_q4e
+
+Top level modules:
+	m2014_q4e
+
+} {} {}} F:/zyb/Desktop/hdlbits/src/Circuits/Basic_Gates/MT2015_Q4b.v {1 {vlog -work work -stats=none F:/zyb/Desktop/hdlbits/src/Circuits/Basic_Gates/MT2015_Q4b.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MT2015_Q4b
+
+Top level modules:
+	MT2015_Q4b
+
+} {} {}} F:/zyb/Desktop/hdlbits/src/Circuits/Basic_Gates/m2014_q4g.v {1 {vlog -work work -stats=none F:/zyb/Desktop/hdlbits/src/Circuits/Basic_Gates/m2014_q4g.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module m2014_q4g
+
+Top level modules:
+	m2014_q4g
+
+} {} {}} F:/zyb/Desktop/hdlbits/sim/Bcdadd100_tb.v {1 {vlog -work work -stats=none F:/zyb/Desktop/hdlbits/sim/Bcdadd100_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Bcdadd100_tb
+
+Top level modules:
+	Bcdadd100_tb
+
+} {} {}} F:/zyb/Desktop/hdlbits/sim/Popcount3_tb.v {1 {vlog -work work -stats=none F:/zyb/Desktop/hdlbits/sim/Popcount3_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Popcount3_tb
+
+Top level modules:
+	Popcount3_tb
+
+} {} {}} F:/zyb/Desktop/hdlbits/src/Circuits/Basic_Gates/m2014_q4h.v {1 {vlog -work work -stats=none F:/zyb/Desktop/hdlbits/src/Circuits/Basic_Gates/m2014_q4h.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module m2014_q4h
+
+Top level modules:
+	m2014_q4h
+
+} {} {}} F:/zyb/Desktop/hdlbits/src/Circuits/Basic_Gates/m2014_q4i.v {1 {vlog -work work -stats=none F:/zyb/Desktop/hdlbits/src/Circuits/Basic_Gates/m2014_q4i.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module m2014_q4i
+
+Top level modules:
+	m2014_q4i
+
+} {} {}} F:/zyb/Desktop/hdlbits/src/Circuits/Basic_Gates/Popcount3.v {1 {vlog -work work -stats=none F:/zyb/Desktop/hdlbits/src/Circuits/Basic_Gates/Popcount3.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Popcount3
+
+Top level modules:
+	Popcount3
+
+} {} {}} F:/zyb/Desktop/hdlbits/src/Circuits/Basic_Gates/Thermostat.v {1 {vlog -work work -stats=none F:/zyb/Desktop/hdlbits/src/Circuits/Basic_Gates/Thermostat.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Thermostat
+
+Top level modules:
+	Thermostat
+
+} {} {}} F:/zyb/Desktop/hdlbits/sim/Always_casez_tb.v {1 {vlog -work work -stats=none F:/zyb/Desktop/hdlbits/sim/Always_casez_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Always_casez_tb
+
+Top level modules:
+	Always_casez_tb
+
+} {} {}} F:/zyb/Desktop/hdlbits/src/Circuits/Basic_Gates/Gates.v {1 {vlog -work work -stats=none F:/zyb/Desktop/hdlbits/src/Circuits/Basic_Gates/Gates.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Gates
+
+Top level modules:
+	Gates
+
+} {} {}}

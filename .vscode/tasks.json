@@ -1,0 +1,47 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "compile",
+            "type": "shell",
+            "command": "iverilog",
+            "args": [
+                "-o",
+                "sim/Mux256to1v_tb.vpp",
+                "src/Circuits/Multiplexers/Mux256to1v.v",
+                "sim/Mux256to1v_tb.v"
+            ]
+        },
+        {
+            "label": "proceed",
+            "type": "shell",
+            "command": "vvp",
+            "args": [
+                "-n",
+                "sim/Mux256to1v_tb.vpp",
+                "-lxt2"
+            ],
+            "dependsOn": [
+                "compile"
+            ]
+        },
+        {
+            "label": "showWave",
+            "type": "shell",
+            "command": "gtkwave",
+            "args": [
+                "sim/test_tb.lxt"
+            ],
+            "dependsOn": [
+                "proceed"
+            ],
+            "problemMatcher": [],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}

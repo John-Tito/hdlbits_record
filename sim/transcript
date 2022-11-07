@@ -1,0 +1,64 @@
+# Compile of Always_case2_tb.v was successful.
+# Compile of Always_casez_tb.v was successful.
+# Compile of Bcdadd100_tb.v was successful.
+# Compile of Mt2015_eq2_tb.v was successful.
+# Compile of Popcount3_tb.v was successful.
+# Compile of Popcount255_tb.v was successful.
+# Compile of chip_7420.v was successful.
+# Compile of Gates.v was successful.
+# Compile of m2014_q4e.v was successful.
+# Compile of m2014_q4f.v was successful.
+# Compile of m2014_q4g.v was successful.
+# Compile of m2014_q4h.v was successful.
+# Compile of m2014_q4i.v was successful.
+# Compile of Mt2015_eq2.v was successful.
+# Compile of Mt2015_q4.v was successful.
+# Compile of MT2015_Q4a.v was successful.
+# Compile of MT2015_Q4b.v was successful.
+# Compile of Popcount3.v was successful.
+# Compile of Ringer.v was successful.
+# Compile of Thermostat.v was successful.
+# Compile of Truthtable1.v was successful.
+# 21 compiles, 0 failed with no errors.
+vsim -gui work.Popcount3_tb
+# vsim -gui work.Popcount3_tb 
+# Start time: 10:53:57 on Nov 07,2022
+# Loading work.Popcount3_tb
+# Loading work.Popcount3
+add wave -position insertpoint sim:/Popcount3_tb/*
+run
+# ** Error: (vsim-7) Failed to open VCD file "sim/test_tb.lxt" in write mode.
+# No such file or directory. (errno = ENOENT)    : F:/zyb/Desktop/hdlbits/sim/Popcount3_tb.v(22)
+#    Time: 0 ps  Iteration: 0  Instance: /Popcount3_tb
+# Break key hit
+# Break in Module Popcount3 at F:/zyb/Desktop/hdlbits/src/Circuits/Basic_Gates/Popcount3.v line 10
+step -over
+# Break key hit
+# Break in Module Popcount3 at F:/zyb/Desktop/hdlbits/src/Circuits/Basic_Gates/Popcount3.v line 10
+# Compile of Popcount3.v was successful.
+restart
+# Closing VCD file "dump.vcd"
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.Popcount3
+run
+# ** Error: (vsim-7) Failed to open VCD file "sim/test_tb.lxt" in write mode.
+# No such file or directory. (errno = ENOENT)    : F:/zyb/Desktop/hdlbits/sim/Popcount3_tb.v(22)
+#    Time: 0 ps  Iteration: 0  Instance: /Popcount3_tb
+# ** Note: $finish    : F:/zyb/Desktop/hdlbits/sim/Popcount3_tb.v(18)
+#    Time: 70 ps  Iteration: 0  Instance: /Popcount3_tb
+# 1
+# Break in Module Popcount3_tb at F:/zyb/Desktop/hdlbits/sim/Popcount3_tb.v line 18
+add wave -position insertpoint sim:/Popcount3_tb/*
+restart
+# Closing VCD file "dump.vcd"
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run
+# ** Error: (vsim-7) Failed to open VCD file "sim/test_tb.lxt" in write mode.
+# No such file or directory. (errno = ENOENT)    : F:/zyb/Desktop/hdlbits/sim/Popcount3_tb.v(22)
+#    Time: 0 ps  Iteration: 0  Instance: /Popcount3_tb
+# ** Note: $finish    : F:/zyb/Desktop/hdlbits/sim/Popcount3_tb.v(18)
+#    Time: 70 ps  Iteration: 0  Instance: /Popcount3_tb
+# 1
+# Break in Module Popcount3_tb at F:/zyb/Desktop/hdlbits/sim/Popcount3_tb.v line 18
+# End time: 10:56:46 on Nov 07,2022, Elapsed time: 0:02:49
+# Errors: 1, Warnings: 1

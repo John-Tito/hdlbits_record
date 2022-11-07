@@ -1,0 +1,104 @@
+$date
+	Mon Nov 07 10:55:42 2022
+$end
+$version
+	ModelSim Version 2020.1
+$end
+$timescale
+	1ps
+$end
+
+$scope module Popcount3_tb $end
+$var reg 3 ! in [2:0] $end
+$var wire 1 " out [1] $end
+$var wire 1 # out [0] $end
+
+$scope module Popcount3_dut $end
+$var wire 1 $ in [2] $end
+$var wire 1 % in [1] $end
+$var wire 1 & in [0] $end
+$var reg 2 ' out [1:0] $end
+$var reg 3 ( i [2:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 !
+b0 '
+b11 (
+0#
+0"
+0&
+0%
+0$
+$end
+#10
+b1 !
+1&
+b0 (
+b1 '
+b1 (
+b10 (
+b11 (
+1#
+#20
+b10 !
+0&
+1%
+b0 '
+b0 (
+b1 (
+b1 '
+b10 (
+b11 (
+#30
+b11 !
+1&
+b0 '
+b0 (
+b1 '
+b1 (
+b10 '
+b10 (
+b11 (
+0#
+1"
+#40
+b100 !
+0&
+0%
+1$
+b0 '
+b0 (
+b1 (
+b10 (
+b1 '
+b11 (
+1#
+0"
+#50
+b101 !
+1&
+b0 '
+b0 (
+b1 '
+b1 (
+b10 (
+b10 '
+b11 (
+0#
+1"
+#60
+b110 !
+0&
+1%
+b0 '
+b0 (
+b1 (
+b1 '
+b10 (
+b10 '
+b11 (
+#70
+b111 !
